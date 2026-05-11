@@ -1,0 +1,37 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                    ⚠️  ETHICAL USE WARNING  ⚠️                                ║
+║                                                                              ║
+║   This software is a KEYLOGGER. It records EVERY keystroke typed on the      ║
+║   computer where it runs, including passwords, messages, credit card         ║
+║   numbers, and other sensitive information.                                  ║
+║                                                                              ║
+║   ─── LEGAL DISCLAIMER ───                                                   ║
+║                                                                              ║
+║   Installing or using keyloggers on systems you do not own or have           ║
+║   explicit written permission to monitor is:                                 ║
+║                                                                              ║
+║     • ILLEGAL in most countries and jurisdictions                            ║
+║     • A violation of privacy laws (GDPR, CFAA, etc.)                         ║
+║     • Grounds for criminal prosecution and civil liability                   ║
+║     • Unethical and an invasion of privacy                                   ║
+║                                                                              ║
+║   ─── INTENDED USE ───                                                       ║
+║                                                                              ║
+║   This tool is provided SOLELY for:                                          ║
+║     • Security researchers studying input monitoring techniques              ║
+║     • Students learning about cybersecurity threats                          ║
+║     • System administrators on their OWN systems                             ║
+║     • Understanding how to DETECT and DEFEND against keyloggers              ║
+║                                                                              ║
+║   ─── BY USING THIS SOFTWARE YOU AGREE ───                                   ║
+║                                                                              ║
+║   1. You will ONLY use this on systems you personally own or have            ║
+║      explicit written authorization to test.                                 ║
+║   2. You will NOT distribute captured keystroke data.                        ║
+║   3. You accept full legal responsibility for your actions.                  ║
+║   4. The authors are NOT liable for any misuse of this software.             ║
+║                                                                              ║
+║   If you are unsure about the legality of your use, DO NOT RUN THIS TOOL.    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
