@@ -1,37 +1,38 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║                    ⚠️  ETHICAL USE WARNING  ⚠️                                ║
+║                    ⚠️  AVISO ÉTICO DE USO  ⚠️                                ║
 ║                                                                              ║
-║   This software is a KEYLOGGER. It records EVERY keystroke typed on the      ║
-║   computer where it runs, including passwords, messages, credit card         ║
-║   numbers, and other sensitive information.                                  ║
+║   Este software é um KEYLOGGER. Ele grava TODAS as teclas digitadas no       ║
+║   computador onde é executado, incluindo senhas, mensagens, números de       ║
+║   cartão de crédito e outras informações sensíveis.                          ║
 ║                                                                              ║
-║   ─── LEGAL DISCLAIMER ───                                                   ║
+║   ─── AVISO LEGAL ───                                                        ║
 ║                                                                              ║
-║   Installing or using keyloggers on systems you do not own or have           ║
-║   explicit written permission to monitor is:                                 ║
+║   Instalar ou usar keyloggers em sistemas que você não possui ou sem         ║
+║   permissão explícita por escrito para monitorar é:                          ║
 ║                                                                              ║
-║     • ILLEGAL in most countries and jurisdictions                            ║
-║     • A violation of privacy laws (GDPR, CFAA, etc.)                         ║
-║     • Grounds for criminal prosecution and civil liability                   ║
-║     • Unethical and an invasion of privacy                                   ║
+║     • ILEGAL na maioria dos países e jurisdições                             ║
+║     • Violação de leis de privacidade (LGPD, CFAA, GDPR etc.)               ║
+║     • Passível de processo criminal e responsabilidade civil                 ║
+║     • Antiético e uma invasão de privacidade                                 ║
 ║                                                                              ║
-║   ─── INTENDED USE ───                                                       ║
+║   ─── USO PRETENDIDO ───                                                     ║
 ║                                                                              ║
-║   This tool is provided SOLELY for:                                          ║
-║     • Security researchers studying input monitoring techniques              ║
-║     • Students learning about cybersecurity threats                          ║
-║     • System administrators on their OWN systems                             ║
-║     • Understanding how to DETECT and DEFEND against keyloggers              ║
+║   Esta ferramenta é fornecida EXCLUSIVAMENTE para:                           ║
+║     • Pesquisadores de segurança estudando técnicas de monitoramento         ║
+║     • Estudantes aprendendo sobre ameaças cibernéticas                       ║
+║     • Administradores de sistemas em seus PRÓPRIOS dispositivos              ║
+║     • Compreender como DETECTAR e SE DEFENDER contra keyloggers              ║
 ║                                                                              ║
-║   ─── BY USING THIS SOFTWARE YOU AGREE ───                                   ║
+║   ─── AO USAR ESTE SOFTWARE VOCÊ CONCORDA ───                                ║
 ║                                                                              ║
-║   1. You will ONLY use this on systems you personally own or have            ║
-║      explicit written authorization to test.                                 ║
-║   2. You will NOT distribute captured keystroke data.                        ║
-║   3. You accept full legal responsibility for your actions.                  ║
-║   4. The authors are NOT liable for any misuse of this software.             ║
+║   1. Usará este software APENAS em sistemas que possui ou com                ║
+║      autorização explícita por escrito para testar.                          ║
+║   2. NÃO distribuirá dados de teclas capturados.                             ║
+║   3. Aceita total responsabilidade legal por suas ações.                     ║
+║   4. Os autores NÃO são responsáveis por qualquer uso indevido.              ║
 ║                                                                              ║
-║   If you are unsure about the legality of your use, DO NOT RUN THIS TOOL.    ║
+║   Se você não tem certeza sobre a legalidade do seu uso, NÃO EXECUTE        ║
+║   ESTA FERRAMENTA.                                                           ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
